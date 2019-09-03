@@ -5,12 +5,52 @@
     <link>https://djwooten.github.io/authors/admin/</link>
       <atom:link href="https://djwooten.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>David Wooten</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2019 David Wooten</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2019 David Wooten</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://djwooten.github.io/img/logo.png</url>
       <title>David Wooten</title>
       <link>https://djwooten.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>A Consensus Framework Unifies Multi-Drug Synergy Metrics</title>
+      <link>https://djwooten.github.io/publication/wooten-683433/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/publication/wooten-683433/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying Drug Combination Synergy along Potency and Efficacy Axes</title>
+      <link>https://djwooten.github.io/publication/meyer-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/publication/meyer-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ventricular-Subventricular Zone Contact by Glioblastoma is Not Associated with Molecular Signatures in Bulk Tumor Data</title>
+      <link>https://djwooten.github.io/publication/mistry-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/publication/mistry-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematical models of cell phenotype regulation and reprogramming: Make cancer cells sensitive again!</title>
+      <link>https://djwooten.github.io/publication/wooten-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/publication/wooten-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel hybrid phenotype revealed in small cell lung cancer by a transcription factor network model that can explain tumor heterogeneity</title>
+      <link>https://djwooten.github.io/publication/udyavar-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/publication/udyavar-2017/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

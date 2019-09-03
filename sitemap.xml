@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://djwooten.github.io/authors/admin/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://djwooten.github.io/publication_types/2/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -28,7 +33,7 @@
   </url>
   
   <url>
-    <loc>https://djwooten.github.io/authors/akshitkumar-m.-mistry/</loc>
+    <loc>https://djwooten.github.io/authors/akshitkumar-m-mistry/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,7 +43,7 @@
   </url>
   
   <url>
-    <loc>https://djwooten.github.io/authors/b.-bishal-paudel/</loc>
+    <loc>https://djwooten.github.io/authors/b-bishal-paudel/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,7 +53,7 @@
   </url>
   
   <url>
-    <loc>https://djwooten.github.io/authors/bret-c.-mobley/</loc>
+    <loc>https://djwooten.github.io/authors/bret-c-mobley/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,27 +68,12 @@
   </url>
   
   <url>
-    <loc>https://djwooten.github.io/authors/christian-t.-meyer/</loc>
+    <loc>https://djwooten.github.io/authors/christine-m-lovly/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://djwooten.github.io/authors/christine-m.-lovly/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://djwooten.github.io/authors/darren-r.-tyson/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://djwooten.github.io/authors/david-j-wooten/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://djwooten.github.io/authors/david-j.-wooten/</loc>
+    <loc>https://djwooten.github.io/authors/darren-r-tyson/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,17 +98,17 @@
   </url>
   
   <url>
-    <loc>https://djwooten.github.io/authors/keisha-n.-hardeman/</loc>
+    <loc>https://djwooten.github.io/authors/keisha-n-hardeman/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://djwooten.github.io/authors/l.-taylor-davis/</loc>
+    <loc>https://djwooten.github.io/authors/l-taylor-davis/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://djwooten.github.io/authors/leonard-a.-harris/</loc>
+    <loc>https://djwooten.github.io/authors/leonard-a-harris/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -143,7 +133,7 @@
   </url>
   
   <url>
-    <loc>https://djwooten.github.io/authors/rebecca-a.-ihrie/</loc>
+    <loc>https://djwooten.github.io/authors/rebecca-a-ihrie/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -168,22 +158,17 @@
   </url>
   
   <url>
-    <loc>https://djwooten.github.io/authors/a.-califano/</loc>
+    <loc>https://djwooten.github.io/authors/akshata-r-udyavar/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://djwooten.github.io/authors/a.r.-udyavar/</loc>
+    <loc>https://djwooten.github.io/authors/andrea-califano/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://djwooten.github.io/tags/attractors/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://djwooten.github.io/authors/d.j.-wooten/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -198,22 +183,12 @@
   </url>
   
   <url>
-    <loc>https://djwooten.github.io/authors/j.m.-irish/</loc>
+    <loc>https://djwooten.github.io/authors/jonathan-m-irish/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://djwooten.github.io/authors/l.-estrada/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://djwooten.github.io/authors/m.-bansal/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://djwooten.github.io/authors/m.-hoeksema/</loc>
+    <loc>https://djwooten.github.io/authors/lourdes-estrada/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -228,12 +203,22 @@
   </url>
   
   <url>
+    <loc>https://djwooten.github.io/authors/megan-hoeksema/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djwooten.github.io/authors/mukesh-bansal/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://djwooten.github.io/publication/udyavar-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://djwooten.github.io/authors/p.p.-massion/</loc>
+    <loc>https://djwooten.github.io/authors/pierre-p-massion/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -243,22 +228,13 @@
   </url>
   
   <url>
-    <loc>https://djwooten.github.io/authors/s.-schnell/</loc>
+    <loc>https://djwooten.github.io/authors/santiago-schnell/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://djwooten.github.io/tags/transcription-factors/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://djwooten.github.io/authors/v.-quaranta/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://djwooten.github.io/authors/admin/</loc>
   </url>
   
   <url>

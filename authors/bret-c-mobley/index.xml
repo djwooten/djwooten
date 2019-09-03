@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bret C Mobley | David Wooten</title>
+    <link>https://djwooten.github.io/authors/bret-c-mobley/</link>
+      <atom:link href="https://djwooten.github.io/authors/bret-c-mobley/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bret C Mobley</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2019 David Wooten</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://djwooten.github.io/img/logo.png</url>
+      <title>Bret C Mobley</title>
+      <link>https://djwooten.github.io/authors/bret-c-mobley/</link>
+    </image>
+    
+    <item>
+      <title>Ventricular-Subventricular Zone Contact by Glioblastoma is Not Associated with Molecular Signatures in Bulk Tumor Data</title>
+      <link>https://djwooten.github.io/publication/mistry-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/publication/mistry-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
