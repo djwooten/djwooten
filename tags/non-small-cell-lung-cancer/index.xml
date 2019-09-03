@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>non-small-cell lung cancer | David Wooten</title>
-    <link>/tags/non-small-cell-lung-cancer/</link>
-      <atom:link href="/tags/non-small-cell-lung-cancer/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://djwooten.github.io/tags/non-small-cell-lung-cancer/</link>
+      <atom:link href="https://djwooten.github.io/tags/non-small-cell-lung-cancer/index.xml" rel="self" type="application/rss+xml" />
     <description>non-small-cell lung cancer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2019 David Wooten</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/logo.png</url>
+      <url>https://djwooten.github.io/img/logo.png</url>
       <title>non-small-cell lung cancer</title>
-      <link>/tags/non-small-cell-lung-cancer/</link>
+      <link>https://djwooten.github.io/tags/non-small-cell-lung-cancer/</link>
     </image>
     
     <item>
       <title>Quantifying Drug Combination Synergy along Potency and Efficacy Axes</title>
-      <link>/publication/meyer-2019/</link>
+      <link>https://djwooten.github.io/publication/meyer-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/meyer-2019/</guid>
+      <guid>https://djwooten.github.io/publication/meyer-2019/</guid>
       <description></description>
     </item>
     

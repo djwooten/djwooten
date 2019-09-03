@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gene regulatory network | David Wooten</title>
-    <link>/tags/gene-regulatory-network/</link>
-      <atom:link href="/tags/gene-regulatory-network/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://djwooten.github.io/tags/gene-regulatory-network/</link>
+      <atom:link href="https://djwooten.github.io/tags/gene-regulatory-network/index.xml" rel="self" type="application/rss+xml" />
     <description>Gene regulatory network</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2019 David Wooten</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/logo.png</url>
+      <url>https://djwooten.github.io/img/logo.png</url>
       <title>Gene regulatory network</title>
-      <link>/tags/gene-regulatory-network/</link>
+      <link>https://djwooten.github.io/tags/gene-regulatory-network/</link>
     </image>
     
     <item>
       <title>Mathematical models of cell phenotype regulation and reprogramming: Make cancer cells sensitive again!</title>
-      <link>/publication/wooten-2017/</link>
+      <link>https://djwooten.github.io/publication/wooten-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/wooten-2017/</guid>
+      <guid>https://djwooten.github.io/publication/wooten-2017/</guid>
       <description></description>
     </item>
     

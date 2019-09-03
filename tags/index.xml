@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | David Wooten</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://djwooten.github.io/tags/</link>
+      <atom:link href="https://djwooten.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2019 David Wooten</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/logo.png</url>
+      <url>https://djwooten.github.io/img/logo.png</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>https://djwooten.github.io/tags/</link>
     </image>
     
     <item>
       <title>BRAF-mutant melanoma</title>
-      <link>/tags/braf-mutant-melanoma/</link>
+      <link>https://djwooten.github.io/tags/braf-mutant-melanoma/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/braf-mutant-melanoma/</guid>
+      <guid>https://djwooten.github.io/tags/braf-mutant-melanoma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>drug synergy</title>
-      <link>/tags/drug-synergy/</link>
+      <link>https://djwooten.github.io/tags/drug-synergy/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/drug-synergy/</guid>
+      <guid>https://djwooten.github.io/tags/drug-synergy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>high-throughput combination drug screens</title>
-      <link>/tags/high-throughput-combination-drug-screens/</link>
+      <link>https://djwooten.github.io/tags/high-throughput-combination-drug-screens/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/high-throughput-combination-drug-screens/</guid>
+      <guid>https://djwooten.github.io/tags/high-throughput-combination-drug-screens/</guid>
       <description></description>
     </item>
     
     <item>
       <title>non-small-cell lung cancer</title>
-      <link>/tags/non-small-cell-lung-cancer/</link>
+      <link>https://djwooten.github.io/tags/non-small-cell-lung-cancer/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/non-small-cell-lung-cancer/</guid>
+      <guid>https://djwooten.github.io/tags/non-small-cell-lung-cancer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>systems pharmacology</title>
-      <link>/tags/systems-pharmacology/</link>
+      <link>https://djwooten.github.io/tags/systems-pharmacology/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/systems-pharmacology/</guid>
+      <guid>https://djwooten.github.io/tags/systems-pharmacology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Attractors</title>
-      <link>/tags/attractors/</link>
+      <link>https://djwooten.github.io/tags/attractors/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/attractors/</guid>
+      <guid>https://djwooten.github.io/tags/attractors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epigenetics</title>
-      <link>/tags/epigenetics/</link>
+      <link>https://djwooten.github.io/tags/epigenetics/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/epigenetics/</guid>
+      <guid>https://djwooten.github.io/tags/epigenetics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gene regulatory network</title>
-      <link>/tags/gene-regulatory-network/</link>
+      <link>https://djwooten.github.io/tags/gene-regulatory-network/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/gene-regulatory-network/</guid>
+      <guid>https://djwooten.github.io/tags/gene-regulatory-network/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mathematical modeling</title>
-      <link>/tags/mathematical-modeling/</link>
+      <link>https://djwooten.github.io/tags/mathematical-modeling/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/mathematical-modeling/</guid>
+      <guid>https://djwooten.github.io/tags/mathematical-modeling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reprogramming</title>
-      <link>/tags/reprogramming/</link>
+      <link>https://djwooten.github.io/tags/reprogramming/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/reprogramming/</guid>
+      <guid>https://djwooten.github.io/tags/reprogramming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcription factors</title>
-      <link>/tags/transcription-factors/</link>
+      <link>https://djwooten.github.io/tags/transcription-factors/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/transcription-factors/</guid>
+      <guid>https://djwooten.github.io/tags/transcription-factors/</guid>
       <description></description>
     </item>
     

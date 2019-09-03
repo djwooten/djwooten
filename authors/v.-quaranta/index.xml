@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>V. Quaranta | David Wooten</title>
-    <link>/authors/v.-quaranta/</link>
-      <atom:link href="/authors/v.-quaranta/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://djwooten.github.io/authors/v.-quaranta/</link>
+      <atom:link href="https://djwooten.github.io/authors/v.-quaranta/index.xml" rel="self" type="application/rss+xml" />
     <description>V. Quaranta</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2019 David Wooten</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/logo.png</url>
+      <url>https://djwooten.github.io/img/logo.png</url>
       <title>V. Quaranta</title>
-      <link>/authors/v.-quaranta/</link>
+      <link>https://djwooten.github.io/authors/v.-quaranta/</link>
     </image>
     
     <item>
       <title>Mathematical models of cell phenotype regulation and reprogramming: Make cancer cells sensitive again!</title>
-      <link>/publication/wooten-2017/</link>
+      <link>https://djwooten.github.io/publication/wooten-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/wooten-2017/</guid>
+      <guid>https://djwooten.github.io/publication/wooten-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Novel hybrid phenotype revealed in small cell lung cancer by a transcription factor network model that can explain tumor heterogeneity</title>
-      <link>/publication/udyavar-2017/</link>
+      <link>https://djwooten.github.io/publication/udyavar-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/udyavar-2017/</guid>
+      <guid>https://djwooten.github.io/publication/udyavar-2017/</guid>
       <description></description>
     </item>
     
