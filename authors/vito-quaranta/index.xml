@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vito Quaranta | David Wooten</title>
+    <link>/authors/vito-quaranta/</link>
+      <atom:link href="/authors/vito-quaranta/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vito Quaranta</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2019 David Wooten</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Vito Quaranta</title>
+      <link>/authors/vito-quaranta/</link>
+    </image>
+    
+    <item>
+      <title>A Consensus Framework Unifies Multi-Drug Synergy Metrics</title>
+      <link>/publication/wooten-683433/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wooten-683433/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying Drug Combination Synergy along Potency and Efficacy Axes</title>
+      <link>/publication/meyer-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/meyer-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ventricular-Subventricular Zone Contact by Glioblastoma is Not Associated with Molecular Signatures in Bulk Tumor Data</title>
+      <link>/publication/mistry-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mistry-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

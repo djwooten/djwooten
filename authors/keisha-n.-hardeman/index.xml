@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keisha N. Hardeman | David Wooten</title>
+    <link>/authors/keisha-n.-hardeman/</link>
+      <atom:link href="/authors/keisha-n.-hardeman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Keisha N. Hardeman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2019 David Wooten</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Keisha N. Hardeman</title>
+      <link>/authors/keisha-n.-hardeman/</link>
+    </image>
+    
+    <item>
+      <title>Quantifying Drug Combination Synergy along Potency and Efficacy Axes</title>
+      <link>/publication/meyer-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/meyer-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

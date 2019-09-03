@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A.R. Udyavar | David Wooten</title>
+    <link>/authors/a.r.-udyavar/</link>
+      <atom:link href="/authors/a.r.-udyavar/index.xml" rel="self" type="application/rss+xml" />
+    <description>A.R. Udyavar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2019 David Wooten</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>A.R. Udyavar</title>
+      <link>/authors/a.r.-udyavar/</link>
+    </image>
+    
+    <item>
+      <title>Novel hybrid phenotype revealed in small cell lung cancer by a transcription factor network model that can explain tumor heterogeneity</title>
+      <link>/publication/udyavar-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/udyavar-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

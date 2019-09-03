@@ -1,25 +1,241 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
+    <title>Authors | David Wooten</title>
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2019 David Wooten</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>/img/logo.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Akshitkumar M. Mistry</title>
+      <link>/authors/akshitkumar-m.-mistry/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/akshitkumar-m.-mistry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. Bishal Paudel</title>
+      <link>/authors/b.-bishal-paudel/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/b.-bishal-paudel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bret C. Mobley</title>
+      <link>/authors/bret-c.-mobley/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/bret-c.-mobley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carlos Lopez</title>
+      <link>/authors/carlos-lopez/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/carlos-lopez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christian T Meyer</title>
+      <link>/authors/christian-t-meyer/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/christian-t-meyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christian T. Meyer</title>
+      <link>/authors/christian-t.-meyer/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/christian-t.-meyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christine M. Lovly</title>
+      <link>/authors/christine-m.-lovly/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/christine-m.-lovly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Darren R. Tyson</title>
+      <link>/authors/darren-r.-tyson/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/darren-r.-tyson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David J Wooten</title>
+      <link>/authors/david-j-wooten/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/david-j-wooten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David J. Wooten</title>
+      <link>/authors/david-j.-wooten/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/david-j.-wooten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Westover</title>
+      <link>/authors/david-westover/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/david-westover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joshua Bauer</title>
+      <link>/authors/joshua-bauer/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/joshua-bauer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keisha N. Hardeman</title>
+      <link>/authors/keisha-n.-hardeman/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/keisha-n.-hardeman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Taylor Davis</title>
+      <link>/authors/l.-taylor-davis/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/l.-taylor-davis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leonard A. Harris</title>
+      <link>/authors/leonard-a.-harris/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/leonard-a.-harris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rebecca A. Ihrie</title>
+      <link>/authors/rebecca-a.-ihrie/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/rebecca-a.-ihrie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vito Quaranta</title>
+      <link>/authors/vito-quaranta/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/vito-quaranta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Califano</title>
+      <link>/authors/a.-califano/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-califano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A.R. Udyavar</title>
+      <link>/authors/a.r.-udyavar/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/a.r.-udyavar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D.J. Wooten</title>
+      <link>/authors/d.j.-wooten/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/d.j.-wooten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J.M. Irish</title>
+      <link>/authors/j.m.-irish/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/j.m.-irish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Estrada</title>
+      <link>/authors/l.-estrada/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/l.-estrada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Bansal</title>
+      <link>/authors/m.-bansal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-bansal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Hoeksema</title>
+      <link>/authors/m.-hoeksema/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-hoeksema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P.P. Massion</title>
+      <link>/authors/p.p.-massion/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/p.p.-massion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Schnell</title>
+      <link>/authors/s.-schnell/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-schnell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Quaranta</title>
+      <link>/authors/v.-quaranta/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/v.-quaranta/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
+      <description>&lt;p&gt;David specializes in research bridging the gap between mathematical/computational models and biological data. His main areas of research focus on mathematical modeling and control of poorly constrained biological networks, drug combination synergy, and multiscale models coupling intracellular and environmental dynamics. He has developed approaches and models toward understanding cancer control, plant signaling, and yeast growth.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+&lt;p&gt;David earned his PhD in Cancer Biology at Vanderbilt University under the guidance of &lt;a href=&#34;https://lab.vanderbilt.edu/quarantalab/&#34; target=&#34;_blank&#34;&gt;Vito Quaranta&lt;/a&gt;, and is currently a postdoctoral scholar with &lt;a href=&#34;https://www.ralbert.me&#34; target=&#34;_blank&#34;&gt;Réka Albert&lt;/a&gt; in the Department of Physics at Pennsylvania State University.&lt;/p&gt;
 </description>
     </item>
     

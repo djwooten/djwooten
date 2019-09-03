@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | David Wooten</title>
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2019 David Wooten</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>2</title>
+      <link>/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>A Consensus Framework Unifies Multi-Drug Synergy Metrics</title>
+      <link>/publication/wooten-683433/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wooten-683433/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying Drug Combination Synergy along Potency and Efficacy Axes</title>
+      <link>/publication/meyer-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/meyer-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ventricular-Subventricular Zone Contact by Glioblastoma is Not Associated with Molecular Signatures in Bulk Tumor Data</title>
+      <link>/publication/mistry-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mistry-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematical models of cell phenotype regulation and reprogramming: Make cancer cells sensitive again!</title>
+      <link>/publication/wooten-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wooten-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel hybrid phenotype revealed in small cell lung cancer by a transcription factor network model that can explain tumor heterogeneity</title>
+      <link>/publication/udyavar-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/udyavar-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

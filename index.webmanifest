@@ -1,9 +1,9 @@
 {
-  "name": "Academic",
-  "short_name": "Academic",
+  "name": "David Wooten",
+  "short_name": "David Wooten",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#283f7b",
+  "background_color": "#283f7b",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",
