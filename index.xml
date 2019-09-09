@@ -13,59 +13,42 @@
     </image>
     
     <item>
-      <title>Cancer Control</title>
-      <link>https://djwooten.github.io/project/cancer-control/</link>
+      <title>Projects</title>
+      <link>https://djwooten.github.io/project/</link>
       <pubDate>Tue, 03 Sep 2019 13:42:12 -0400</pubDate>
-      <guid>https://djwooten.github.io/project/cancer-control/</guid>
+      <guid>https://djwooten.github.io/project/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Drug Synergy</title>
-      <link>https://djwooten.github.io/project/synergy/</link>
-      <pubDate>Tue, 03 Sep 2019 12:00:07 -0400</pubDate>
-      <guid>https://djwooten.github.io/project/synergy/</guid>
-      <description>&lt;p&gt;Many diseases require combinations of multiple drugs for effective treatment. I am interested in identifying, quantifying, and understanding synergistic or antagonistic interactions between drugs in combinations.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Consensus Framework Unifies Multi-Drug Synergy Metrics</title>
-      <link>https://djwooten.github.io/publication/wooten-683433/</link>
+      <title>Publications</title>
+      <link>https://djwooten.github.io/publication/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://djwooten.github.io/publication/wooten-683433/</guid>
+      <guid>https://djwooten.github.io/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Quantifying Drug Combination Synergy along Potency and Efficacy Axes</title>
-      <link>https://djwooten.github.io/publication/meyer-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://djwooten.github.io/publication/meyer-2019/</guid>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ventricular-Subventricular Zone Contact by Glioblastoma is Not Associated with Molecular Signatures in Bulk Tumor Data</title>
-      <link>https://djwooten.github.io/publication/mistry-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://djwooten.github.io/publication/mistry-2019/</guid>
+      <title>Posts</title>
+      <link>https://djwooten.github.io/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Mathematical models of cell phenotype regulation and reprogramming: Make cancer cells sensitive again!</title>
-      <link>https://djwooten.github.io/publication/wooten-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://djwooten.github.io/publication/wooten-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Novel hybrid phenotype revealed in small cell lung cancer by a transcription factor network model that can explain tumor heterogeneity</title>
-      <link>https://djwooten.github.io/publication/udyavar-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://djwooten.github.io/publication/udyavar-2017/</guid>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://djwooten.github.io/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/talk/</guid>
       <description></description>
     </item>
     

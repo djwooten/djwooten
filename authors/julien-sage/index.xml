@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Darren R Tyson | David Wooten</title>
-    <link>https://djwooten.github.io/authors/darren-r-tyson/</link>
-      <atom:link href="https://djwooten.github.io/authors/darren-r-tyson/index.xml" rel="self" type="application/rss+xml" />
-    <description>Darren R Tyson</description>
+    <title>Julien Sage | David Wooten</title>
+    <link>https://djwooten.github.io/authors/julien-sage/</link>
+      <atom:link href="https://djwooten.github.io/authors/julien-sage/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julien Sage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2019 David Wooten</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://djwooten.github.io/img/logo.png</url>
-      <title>Darren R Tyson</title>
-      <link>https://djwooten.github.io/authors/darren-r-tyson/</link>
+      <title>Julien Sage</title>
+      <link>https://djwooten.github.io/authors/julien-sage/</link>
     </image>
-    
-    <item>
-      <title>Quantifying Drug Combination Synergy along Potency and Efficacy Axes</title>
-      <link>https://djwooten.github.io/publication/meyer-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://djwooten.github.io/publication/meyer-2019/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Systems-level network modeling of Small Cell Lung Cancer subtypes identifies master regulators and destabilizers</title>
