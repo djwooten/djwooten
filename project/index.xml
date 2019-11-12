@@ -5,7 +5,7 @@
     <link>https://djwooten.github.io/project/</link>
       <atom:link href="https://djwooten.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2019 David Wooten</copyright><lastBuildDate>Tue, 03 Sep 2019 13:42:12 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2019 David Wooten</copyright><lastBuildDate>Mon, 11 Nov 2019 20:36:25 -0500</lastBuildDate>
     <image>
       <url>https://djwooten.github.io/img/logo.png</url>
       <title>Projects</title>
@@ -13,11 +13,36 @@
     </image>
     
     <item>
+      <title>Data Driven Mechanistic Modeling</title>
+      <link>https://djwooten.github.io/project/data-driven/</link>
+      <pubDate>Mon, 11 Nov 2019 20:36:25 -0500</pubDate>
+      <guid>https://djwooten.github.io/project/data-driven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiscale Cell / Micro- environment Dynamics</title>
+      <link>https://djwooten.github.io/project/multiscale/</link>
+      <pubDate>Mon, 11 Nov 2019 13:42:12 -0400</pubDate>
+      <guid>https://djwooten.github.io/project/multiscale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cancer Control</title>
       <link>https://djwooten.github.io/project/cancer-control/</link>
       <pubDate>Tue, 03 Sep 2019 13:42:12 -0400</pubDate>
       <guid>https://djwooten.github.io/project/cancer-control/</guid>
-      <description></description>
+      <description>&lt;p&gt;In response to treatment, cancer cells can react in complex, difficult to predict ways. Here we consider this through a lens of &lt;strong&gt;treatment-induced driving forces pushing cancer cells around an epigenetic landscape&lt;/strong&gt;. This force may cause new phenotypes to emerge, old phenotypes to disapear, and/or the balance between pre-existing phenotypes to shift. The overall goal of this project is to identify treatments that can epigenetically &lt;strong&gt;reprogram drug-resistant cancer cells toward drug-sensitive states&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Identify regulatory and epigenetic factors stabilizing drug-resistant or quiescent phenotypes&lt;/li&gt;
+&lt;li&gt;Identify treatments that can target those key regulators to de-stabilize undesirable states&lt;/li&gt;
+&lt;li&gt;Validate drug combinations in which one agent reprograms cells toward the sensitive state, and the other agent kills cells in sensitive state&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To achieve these ends, we employ a mixture of bioinformatic analyses and mechanistic modeling.&lt;/p&gt;
+</description>
     </item>
     
     <item>

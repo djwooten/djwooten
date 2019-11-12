@@ -5,7 +5,7 @@
     <link>https://djwooten.github.io/authors/</link>
       <atom:link href="https://djwooten.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2019 David Wooten</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2019 David Wooten</copyright><lastBuildDate>Thu, 31 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://djwooten.github.io/img/logo.png</url>
       <title>Authors</title>
@@ -15,12 +15,76 @@
     <item>
       <title></title>
       <link>https://djwooten.github.io/authors/admin/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://djwooten.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am interested in bridging the gap between mathematical/computational models and biological data. My research focuses primarily on mathematical modeling and control of poorly constrained biological networks, drug combination synergy, and multiscale models coupling intracellular and environmental dynamics. I have developed and applied approaches and models toward understanding cancer control, plant signaling, and yeast growth.&lt;/p&gt;
 
 &lt;p&gt;I earned my PhD in Cancer Biology at Vanderbilt University under the guidance of &lt;a href=&#34;https://lab.vanderbilt.edu/quarantalab/&#34; target=&#34;_blank&#34;&gt;Vito Quaranta&lt;/a&gt;, and am currently a postdoctoral scholar with &lt;a href=&#34;https://www.ralbert.me&#34; target=&#34;_blank&#34;&gt;Réka Albert&lt;/a&gt; in the Department of Physics at Pennsylvania State University.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Carlos F Lopez</title>
+      <link>https://djwooten.github.io/authors/carlos-f-lopez/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/authors/carlos-f-lopez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Darren R Tyson</title>
+      <link>https://djwooten.github.io/authors/darren-r-tyson/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/authors/darren-r-tyson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jing S Lim</title>
+      <link>https://djwooten.github.io/authors/jing-s-lim/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/authors/jing-s-lim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julien Sage</title>
+      <link>https://djwooten.github.io/authors/julien-sage/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/authors/julien-sage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qi Liu</title>
+      <link>https://djwooten.github.io/authors/qi-liu/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/authors/qi-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Réka Albert</title>
+      <link>https://djwooten.github.io/authors/reka-albert/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/authors/reka-albert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah M Groves</title>
+      <link>https://djwooten.github.io/authors/sarah-m-groves/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/authors/sarah-m-groves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vito Quaranta</title>
+      <link>https://djwooten.github.io/authors/vito-quaranta/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/authors/vito-quaranta/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -44,14 +108,6 @@
       <link>https://djwooten.github.io/authors/bret-c-mobley/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://djwooten.github.io/authors/bret-c-mobley/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Carlos F Lopez</title>
-      <link>https://djwooten.github.io/authors/carlos-f-lopez/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://djwooten.github.io/authors/carlos-f-lopez/</guid>
       <description></description>
     </item>
     
@@ -80,14 +136,6 @@
     </item>
     
     <item>
-      <title>Darren R Tyson</title>
-      <link>https://djwooten.github.io/authors/darren-r-tyson/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://djwooten.github.io/authors/darren-r-tyson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>David Westover</title>
       <link>https://djwooten.github.io/authors/david-westover/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -96,26 +144,10 @@
     </item>
     
     <item>
-      <title>Jing S Lim</title>
-      <link>https://djwooten.github.io/authors/jing-s-lim/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://djwooten.github.io/authors/jing-s-lim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Joshua Bauer</title>
       <link>https://djwooten.github.io/authors/joshua-bauer/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://djwooten.github.io/authors/joshua-bauer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Julien Sage</title>
-      <link>https://djwooten.github.io/authors/julien-sage/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://djwooten.github.io/authors/julien-sage/</guid>
       <description></description>
     </item>
     
@@ -144,42 +176,10 @@
     </item>
     
     <item>
-      <title>Qi Liu</title>
-      <link>https://djwooten.github.io/authors/qi-liu/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://djwooten.github.io/authors/qi-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Rebecca A Ihrie</title>
       <link>https://djwooten.github.io/authors/rebecca-a-ihrie/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://djwooten.github.io/authors/rebecca-a-ihrie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Réka Albert</title>
-      <link>https://djwooten.github.io/authors/reka-albert/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://djwooten.github.io/authors/reka-albert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sarah M Groves</title>
-      <link>https://djwooten.github.io/authors/sarah-m-groves/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://djwooten.github.io/authors/sarah-m-groves/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vito Quaranta</title>
-      <link>https://djwooten.github.io/authors/vito-quaranta/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://djwooten.github.io/authors/vito-quaranta/</guid>
       <description></description>
     </item>
     

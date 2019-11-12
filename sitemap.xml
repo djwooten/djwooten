@@ -1,19 +1,99 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://djwooten.github.io/project/cancer-control/</loc>
-    <lastmod>2019-09-03T13:42:12-04:00</lastmod>
+    <loc>https://djwooten.github.io/project/data-driven/</loc>
+    <lastmod>2019-11-11T20:36:25-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://djwooten.github.io/</loc>
-    <lastmod>2019-09-03T13:42:12-04:00</lastmod>
+    <lastmod>2019-11-11T20:36:25-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://djwooten.github.io/project/</loc>
+    <lastmod>2019-11-11T20:36:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djwooten.github.io/project/multiscale/</loc>
+    <lastmod>2019-11-11T13:42:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djwooten.github.io/authors/admin/</loc>
+    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djwooten.github.io/publication_types/2/</loc>
+    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djwooten.github.io/authors/</loc>
+    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djwooten.github.io/authors/carlos-f-lopez/</loc>
+    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djwooten.github.io/authors/darren-r-tyson/</loc>
+    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djwooten.github.io/authors/jing-s-lim/</loc>
+    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djwooten.github.io/authors/julien-sage/</loc>
+    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djwooten.github.io/publication_types/</loc>
+    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djwooten.github.io/publication/</loc>
+    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djwooten.github.io/authors/qi-liu/</loc>
+    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djwooten.github.io/authors/reka-albert/</loc>
+    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djwooten.github.io/authors/sarah-m-groves/</loc>
+    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djwooten.github.io/publication/wooten-506402/</loc>
+    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djwooten.github.io/authors/vito-quaranta/</loc>
+    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djwooten.github.io/project/cancer-control/</loc>
     <lastmod>2019-09-03T13:42:12-04:00</lastmod>
   </url>
   
@@ -23,27 +103,12 @@
   </url>
   
   <url>
-    <loc>https://djwooten.github.io/authors/admin/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://djwooten.github.io/publication_types/2/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://djwooten.github.io/publication/wooten-683433/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://djwooten.github.io/authors/akshitkumar-m-mistry/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://djwooten.github.io/authors/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,11 +128,6 @@
   </url>
   
   <url>
-    <loc>https://djwooten.github.io/authors/carlos-f-lopez/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://djwooten.github.io/authors/carlos-lopez/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -79,11 +139,6 @@
   
   <url>
     <loc>https://djwooten.github.io/authors/christine-m-lovly/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://djwooten.github.io/authors/darren-r-tyson/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,17 +158,7 @@
   </url>
   
   <url>
-    <loc>https://djwooten.github.io/authors/jing-s-lim/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://djwooten.github.io/authors/joshua-bauer/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://djwooten.github.io/authors/julien-sage/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -138,21 +183,6 @@
   </url>
   
   <url>
-    <loc>https://djwooten.github.io/publication_types/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://djwooten.github.io/publication/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://djwooten.github.io/authors/qi-liu/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://djwooten.github.io/publication/meyer-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -163,22 +193,7 @@
   </url>
   
   <url>
-    <loc>https://djwooten.github.io/authors/reka-albert/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://djwooten.github.io/authors/sarah-m-groves/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://djwooten.github.io/tags/systems-pharmacology/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://djwooten.github.io/publication/wooten-506402/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -189,11 +204,6 @@
   
   <url>
     <loc>https://djwooten.github.io/publication/mistry-2019/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://djwooten.github.io/authors/vito-quaranta/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
