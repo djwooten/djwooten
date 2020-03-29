@@ -7,7 +7,7 @@
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2020 David Wooten</copyright><lastBuildDate>Mon, 11 Nov 2019 20:36:25 -0500</lastBuildDate>
     <image>
-      <url>https://djwooten.github.io/img/logo.png</url>
+      <url>https://djwooten.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://djwooten.github.io/project/</link>
     </image>
@@ -49,7 +49,8 @@
       <pubDate>Tue, 03 Sep 2019 12:00:07 -0400</pubDate>
       <guid>https://djwooten.github.io/project/synergy/</guid>
       <description>&lt;p&gt;Many diseases require combinations of multiple drugs for effective treatment. I am interested in identifying, quantifying, and understanding synergistic or antagonistic interactions between drugs in combinations.&lt;/p&gt;
-&lt;p&gt;A web application for calculating MuSyC synergy parameters for combinations is now available! &lt;a href=&#34;https://musyc.lolab.xyz/&#34; title=&#34;Synergy web application&#34;&gt;https://musyc.lolab.xyz/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A web application for calculating MuSyC synergy parameters for combinations is now available! 
+&lt;a href=&#34;https://musyc.lolab.xyz/&#34; title=&#34;Synergy web application&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://musyc.lolab.xyz/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

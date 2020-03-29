@@ -7,40 +7,106 @@
     <description>David Wooten</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2020 David Wooten</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://djwooten.github.io/img/logo.png</url>
+      <url>https://djwooten.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>David Wooten</title>
       <link>https://djwooten.github.io/</link>
     </image>
     
     <item>
-      <title>Publications</title>
-      <link>https://djwooten.github.io/publication/</link>
+      <title>Charting the Fragmented Landscape of Drug Synergy</title>
+      <link>https://djwooten.github.io/publication/meyer-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://djwooten.github.io/publication/</guid>
+      <guid>https://djwooten.github.io/publication/meyer-2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://djwooten.github.io/project/</link>
+      <title>Data Driven Mechanistic Modeling</title>
+      <link>https://djwooten.github.io/project/data-driven/</link>
       <pubDate>Mon, 11 Nov 2019 20:36:25 -0500</pubDate>
-      <guid>https://djwooten.github.io/project/</guid>
+      <guid>https://djwooten.github.io/project/data-driven/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://djwooten.github.io/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://djwooten.github.io/post/</guid>
+      <title>Multiscale Cell / Micro- environment Dynamics</title>
+      <link>https://djwooten.github.io/project/multiscale/</link>
+      <pubDate>Mon, 11 Nov 2019 13:42:12 -0400</pubDate>
+      <guid>https://djwooten.github.io/project/multiscale/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://djwooten.github.io/talk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://djwooten.github.io/talk/</guid>
+      <title>Systems-level network modeling of Small Cell Lung Cancer subtypes identifies master regulators and destabilizers</title>
+      <link>https://djwooten.github.io/publication/wooten-506402/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/publication/wooten-506402/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cancer Control</title>
+      <link>https://djwooten.github.io/project/cancer-control/</link>
+      <pubDate>Tue, 03 Sep 2019 13:42:12 -0400</pubDate>
+      <guid>https://djwooten.github.io/project/cancer-control/</guid>
+      <description>&lt;p&gt;In response to treatment, cancer cells can react in complex, difficult to predict ways. Here we consider this through a lens of &lt;strong&gt;treatment-induced driving forces pushing cancer cells around an epigenetic landscape&lt;/strong&gt;. This force may cause new phenotypes to emerge, old phenotypes to disapear, and/or the balance between pre-existing phenotypes to shift. The overall goal of this project is to identify treatments that can epigenetically &lt;strong&gt;reprogram drug-resistant cancer cells toward drug-sensitive states&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Identify regulatory and epigenetic factors stabilizing drug-resistant or quiescent phenotypes&lt;/li&gt;
+&lt;li&gt;Identify treatments that can target those key regulators to de-stabilize undesirable states&lt;/li&gt;
+&lt;li&gt;Validate drug combinations in which one agent reprograms cells toward the sensitive state, and the other agent kills cells in sensitive state&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To achieve these ends, we employ a mixture of bioinformatic analyses and mechanistic modeling.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Drug Synergy</title>
+      <link>https://djwooten.github.io/project/synergy/</link>
+      <pubDate>Tue, 03 Sep 2019 12:00:07 -0400</pubDate>
+      <guid>https://djwooten.github.io/project/synergy/</guid>
+      <description>&lt;p&gt;Many diseases require combinations of multiple drugs for effective treatment. I am interested in identifying, quantifying, and understanding synergistic or antagonistic interactions between drugs in combinations.&lt;/p&gt;
+&lt;p&gt;A web application for calculating MuSyC synergy parameters for combinations is now available! 
+&lt;a href=&#34;https://musyc.lolab.xyz/&#34; title=&#34;Synergy web application&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://musyc.lolab.xyz/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Consensus Framework Unifies Multi-Drug Synergy Metrics</title>
+      <link>https://djwooten.github.io/publication/wooten-683433/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/publication/wooten-683433/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying Drug Combination Synergy along Potency and Efficacy Axes</title>
+      <link>https://djwooten.github.io/publication/meyer-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/publication/meyer-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ventricular-Subventricular Zone Contact by Glioblastoma is Not Associated with Molecular Signatures in Bulk Tumor Data</title>
+      <link>https://djwooten.github.io/publication/mistry-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/publication/mistry-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematical models of cell phenotype regulation and reprogramming: Make cancer cells sensitive again!</title>
+      <link>https://djwooten.github.io/publication/wooten-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/publication/wooten-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel hybrid phenotype revealed in small cell lung cancer by a transcription factor network model that can explain tumor heterogeneity</title>
+      <link>https://djwooten.github.io/publication/udyavar-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/publication/udyavar-2017/</guid>
       <description></description>
     </item>
     
