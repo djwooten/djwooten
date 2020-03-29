@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Loewe Additivity | David Wooten</title>
+    <link>https://djwooten.github.io/tags/loewe-additivity/</link>
+      <atom:link href="https://djwooten.github.io/tags/loewe-additivity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Loewe Additivity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2020 David Wooten</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://djwooten.github.io/img/logo.png</url>
+      <title>Loewe Additivity</title>
+      <link>https://djwooten.github.io/tags/loewe-additivity/</link>
+    </image>
+    
+    <item>
+      <title>Charting the Fragmented Landscape of Drug Synergy</title>
+      <link>https://djwooten.github.io/publication/meyer-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/publication/meyer-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

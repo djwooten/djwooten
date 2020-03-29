@@ -5,12 +5,20 @@
     <link>https://djwooten.github.io/publication/</link>
       <atom:link href="https://djwooten.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2019 David Wooten</copyright><lastBuildDate>Thu, 31 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2020 David Wooten</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://djwooten.github.io/img/logo.png</url>
       <title>Publications</title>
       <link>https://djwooten.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Charting the Fragmented Landscape of Drug Synergy</title>
+      <link>https://djwooten.github.io/publication/meyer-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/publication/meyer-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Systems-level network modeling of Small Cell Lung Cancer subtypes identifies master regulators and destabilizers</title>

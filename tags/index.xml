@@ -5,7 +5,7 @@
     <link>https://djwooten.github.io/tags/</link>
       <atom:link href="https://djwooten.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2019 David Wooten</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2020 David Wooten</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://djwooten.github.io/img/logo.png</url>
       <title>Tags</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
-      <title>BRAF-mutant melanoma</title>
-      <link>https://djwooten.github.io/tags/braf-mutant-melanoma/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://djwooten.github.io/tags/braf-mutant-melanoma/</guid>
+      <title>Bliss Independence</title>
+      <link>https://djwooten.github.io/tags/bliss-independence/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/tags/bliss-independence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>drug synergy</title>
       <link>https://djwooten.github.io/tags/drug-synergy/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://djwooten.github.io/tags/drug-synergy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loewe Additivity</title>
+      <link>https://djwooten.github.io/tags/loewe-additivity/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/tags/loewe-additivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BRAF-mutant melanoma</title>
+      <link>https://djwooten.github.io/tags/braf-mutant-melanoma/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/tags/braf-mutant-melanoma/</guid>
       <description></description>
     </item>
     
