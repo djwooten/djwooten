@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Softwares | David Wooten</title>
+    <title>Software | David Wooten</title>
     <link>https://djwooten.github.io/software/</link>
       <atom:link href="https://djwooten.github.io/software/index.xml" rel="self" type="application/rss+xml" />
-    <description>Softwares</description>
+    <description>Software</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2020 David Wooten</copyright><lastBuildDate>Thu, 23 Apr 2020 12:00:07 -0400</lastBuildDate>
     <image>
       <url>https://djwooten.github.io/images/logo_hufcc7f18ea081c5a5c1d6a1ea8035b9ba_249_300x300_fit_lanczos_2.png</url>
-      <title>Softwares</title>
+      <title>Software</title>
       <link>https://djwooten.github.io/software/</link>
     </image>
     
