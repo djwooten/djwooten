@@ -5,12 +5,20 @@
     <link>https://djwooten.github.io/tags/loewe-additivity/</link>
       <atom:link href="https://djwooten.github.io/tags/loewe-additivity/index.xml" rel="self" type="application/rss+xml" />
     <description>Loewe Additivity</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2020 David Wooten</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2020 David Wooten</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://djwooten.github.io/images/logo_hufcc7f18ea081c5a5c1d6a1ea8035b9ba_249_300x300_fit_lanczos_2.png</url>
       <title>Loewe Additivity</title>
       <link>https://djwooten.github.io/tags/loewe-additivity/</link>
     </image>
+    
+    <item>
+      <title>synergy - A Python library for calculating, analyzing, and visualizing drug combination synergy</title>
+      <link>https://djwooten.github.io/publication/wooten-2020-synergy/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/publication/wooten-2020-synergy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Charting the Fragmented Landscape of Drug Synergy</title>

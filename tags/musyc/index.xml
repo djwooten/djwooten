@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;MuSyC&#34; | David Wooten</title>
+    <link>https://djwooten.github.io/tags/musyc/</link>
+      <atom:link href="https://djwooten.github.io/tags/musyc/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;MuSyC&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2020 David Wooten</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://djwooten.github.io/images/logo_hufcc7f18ea081c5a5c1d6a1ea8035b9ba_249_300x300_fit_lanczos_2.png</url>
+      <title>&#34;MuSyC&#34;</title>
+      <link>https://djwooten.github.io/tags/musyc/</link>
+    </image>
+    
+    <item>
+      <title>synergy - A Python library for calculating, analyzing, and visualizing drug combination synergy</title>
+      <link>https://djwooten.github.io/publication/wooten-2020-synergy/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://djwooten.github.io/publication/wooten-2020-synergy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
